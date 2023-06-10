@@ -1,0 +1,20 @@
+#ask the user for their name
+string name = input name
+#sets the keyboard input to a number
+num x = input x
+#num y is 420
+num y = 420
+#adding subtracting multiplying and dividing
+num addition = add(x,y)
+num subtraction = sub(x,y)
+num multiplication = mult(x,y)
+num division = div(x,y)
+# Print the values of z, a, b and c
+print(addition)
+print(subtraction)
+print(multiplication)
+print(division)
+#so this one is a loop prints name 3 times
+loop(4) print(name)
+#Conditional that checks the addition of x and y prints a message
+if(z>2000) print(z)
